@@ -8,7 +8,7 @@ public class Passenger {
 	public Passenger() {
 		super();
 	}
-	public Passenger(String person_Name, Integer person_Id, Integer train_Number, String origin_City,
+	public Passenger(String person_Name, Integer persoId, Integer train_Number, String origin_City,
 			String destintion_City) {
 		super();
 		Person_Name = person_Name;
